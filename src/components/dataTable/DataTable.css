@@ -1,0 +1,14 @@
+.Wraper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 5px;
+    border-bottom: 2px solid white;
+    background-color: #F6F6F5;
+}
+.Wraper:hover{
+    background-color: white;
+    color: black;
+}
